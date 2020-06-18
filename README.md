@@ -1,5 +1,7 @@
 # Part I
-## Django Login and Logout Tutorial(https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+## Django Login and Logout Tutorial
+## How to implement login and logout in Django 3.0
+## https://learndjango.com/tutorials/django-login-and-logout-tutorial
 ### Reslut
 <img src="https://github.com/ankiwoong/Django_Auth_Tutorial/blob/master/Screenshot/main1.png?raw=true">
 <img src="https://github.com/ankiwoong/Django_Auth_Tutorial/blob/master/Screenshot/loginpage.png?raw=true">
